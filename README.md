@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👾 Riyanshu Baskey
 
-<!--
-**iam-rbaskey/iam-rbaskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend & MERN Stack Developer | UI/UX Focused | Product Builder
 
-Here are some ideas to get you started:
+> Building digital experiences where **clean code meets great design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+```ts
+const developer = {
+  name: "Riyanshu Baskey",
+  role: "Frontend / MERN Stack Developer",
+  focus: ["UI/UX", "Performance", "Scalable Web Apps"],
+  mindset: "Learn → Build → Improve",
+  currentlyWorkingOn: "Full-stack products & design-heavy web apps",
+  location: "India 🌏"
+};
